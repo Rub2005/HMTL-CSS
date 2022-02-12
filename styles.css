@@ -1,0 +1,87 @@
+body {
+    background-color: #aec55a;
+    font-weight: 600; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+    color: white;
+    font-style: italic;
+}
+p {
+   color: white;
+   font-style: italic;
+}
+h2 {
+    color: cyan;
+}
+div {
+   color: black;
+}
+img {
+    border-radius: 29px;
+    box-shadow: 16px 19px 20px rgba(0, 2, 3, 026);
+}
+.bio {
+    font-style: italic;
+  font-weight: bold;
+}
+textarea {
+  background-color: darkgrey;
+}
+.bomboleylo {
+    background-color: darkgrey;
+}
+.archukner {
+    /*border-top: 3px solid darkgray ;
+    border-right:3px solid papayawhip ;
+    border-bottom: 3px solid purple;
+    border-left: 3px solid royalblue;*/ 
+    padding: 3px 10px 25px 3px;
+    /*margin-right: 3px;*/
+}
+
+.pol {
+    background: #fff9dc;
+    border-radius: 20px;
+    padding-left:20px;
+    padding-bottom: 7px;
+}
+
+.patalok {
+    background: #e5ffe7;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-bottom: 7px;
+}
+
+.mijancq {
+    background: #ffe5e5;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-bottom: 7px;
+
+}
+
+.mijancq li {
+    padding: 0%;
+}
+
+.induktr {
+    padding: 0 20px;
+    list-style: none;
+}
+
+.induktr li {
+    /*border-bottom: 1px solid;*/
+    padding-bottom: px;
+}
+
+.class {
+    width: 100%;
+}
+.class td {
+    padding-bottom: 10px;
+    font-weight: 900;
+    
+}
+
